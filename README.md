@@ -52,7 +52,7 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 
 
 
-## 🚀 Empezar => Basado en MIDUDEV ❤️ https://img.shields.io/github/stars/midudev/minimalist-portfolio-json
+## 🚀 Empezar => Basado en MIDUDEV ❤️ https://www.youtube.com/watch?v=Zwh92LTB-Bk&t=418s
 
 
 
