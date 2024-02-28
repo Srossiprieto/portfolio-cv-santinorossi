@@ -1,0 +1,253 @@
+{
+  "basics": {
+    "name": "Santino Rossi Prieto",
+    "label": "Full Stack Developer, +2 años de experiencia",
+    "image": "/me.webp",
+    "email": "santirossip@gmail.com",
+    "phone": "+54 2355647692",
+    "url": "https://santinorossi.site",
+    "summary": "+2 años de experiencia como Front end Developer. Actualmente trabajando de forma freelance. Vivo en Junín, Buenos Aires, Argentina. He trabajado en diferentes entornos donde destaco en: comunicación, código limpio, adaptabilidad, organización y trabajo en equipo. Me gusta aprender y estar en constante evolución.",
+    "location": {
+      "address": "Hipolito Yrigoyen, 17",
+      "postalCode": "6000",
+      "city": "Junín Buenos Aires",
+      "countryCode": "AR",
+      "region": "Argentina"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "santino-rossi",
+        "url": "https://linkedin.com/in/santino-rossi"
+      },
+      {
+        "network": "X",
+        "username": "_santirossip",
+        "url": "https://x.com/_santirossip"
+      },
+      {
+        "network": "GitHub",
+        "username": "srossiprieto",
+        "url": "https://github.com/srossiprieto"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Freelance - Remote",
+      "position": "Full Stack Developer",
+      "startDate": "2022",
+      "endDate": null,
+      "summary": " Desarrollo de aplicaciones web y móviles. Trabajo en equipo con otros desarrolladores y diseñadores. Uso de metodologías ágiles y buenas prácticas de desarrollo. ",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [
+    {
+      "institution": "Nucba",
+      "url": "https://www.nucba.com.ar/",
+      "area": "Full Stack Developer",
+      "studyType": "Curso",
+      "startDate": "2023",
+      "endDate": "2024",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "UNNOBA",
+      "url": "https://unnoba.edu.ar/",
+      "area": "Técnico En Diseño y Desarrollo de Aplicaciones Multiplataformas",
+      "studyType": "Tecnicatura",
+      "startDate": "2024",
+      "endDate": null,
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "PixiFi",
+      "isActive": true,
+      "description": "Agencia de Marketing, landing page, utilización de StyledComponents, React y Redux .",
+      "highlights": [
+        "React",
+        "JavaScript",
+        "StyledComponents"
+      ],
+      "url": "https://integrador-react-sr.vercel.app/",
+      "github": "https://github.com/Srossiprieto/Integrador-React-Sr"
+    },
+    {
+      "name": "Petline",
+      "isActive": true,
+      "description": "Ecomerce de productos para mascotas, validación de formularios, carrito de compras, responsive, filtros, manejo del DOM.",
+      "highlights": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "url": "https://integrador-js-sr.vercel.app/",
+      "github": "https://github.com/Srossiprieto/IntegradorJS-SR"
+    },
+    {
+      "name": "To Do App",
+      "isActive": true,
+      "description": "Aplicación de tareas, manejo de localStorage, responsive, manejo del DOM.",
+      "highlights": [
+        "HTML",
+        "CSS",
+        "JavaScript"	
+      ],
+      "url": "https://to-do-list-xi-mauve.vercel.app/",
+      "github": ""
+      
+    },
+    {
+      "name": "Tu Clima",
+      "isActive": true,
+      "description": "Manejo de la API : OpenWeatherMap, uso de Fetch, manejo de DOM, buscador y responsive.",
+      "highlights": [
+        "HTML",
+        "CSS",
+        "JavaScript"	
+      ],
+      "url": "https://weather-api-woad-ten.vercel.app/",
+      "github": "https://github.com/Srossiprieto/Weather-API"
+    },
+    {
+      "name": "Toast Notification",
+      "isActive": true,
+      "description": "Notificaciones, manejo de eventos, responsive.",
+      "highlights": [
+        "HTML",
+        "CSS",
+        "JavaScript"	
+      ],
+      "url": "https://toast-notifications-pink.vercel.app/",
+      "github": "https://github.com/Srossiprieto/-TOAST--NOTIFICATIONS.git"
+    }
+  ]
+}
+
