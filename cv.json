@@ -215,11 +215,11 @@
     {
       "name": "To Do App",
       "isActive": true,
-      "description": "Aplicación de tareas, manejo de localStorage, responsive, manejo del DOM.",
+      "description": "",
       "highlights": [
-        "HTML",
-        "CSS",
-        "JavaScript"	
+        "JavaScript",	
+        "React",
+        "TailwindCSS"
       ],
       "url": "https://to-do-list-xi-mauve.vercel.app/",
       "github": ""
