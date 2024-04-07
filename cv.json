@@ -215,14 +215,14 @@
     {
       "name": "To Do App",
       "isActive": true,
-      "description": "",
+      "description": "Gestionar tareas en varios marcos temporales: día, semana, mes y año. Con una interfaz intuitiva y fácil de usar.",
       "highlights": [
         "JavaScript",	
         "React",
         "TailwindCSS"
       ],
-      "url": "https://to-do-list-xi-mauve.vercel.app/",
-      "github": ""
+      "url": "https://to-do-list-react-srp.vercel.app/",
+      "github": "https://github.com/Srossiprieto/ToDoListReactSRP"
       
     },
     {
