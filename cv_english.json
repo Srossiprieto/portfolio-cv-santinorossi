@@ -57,24 +57,37 @@
   }],
   "education": [
     {
-      "institution": "Nucba",
-      "url": "https://www.nucba.com.ar/",
-      "area": "Full Stack Developer",
-      "studyType": "Course",
-      "startDate": "2023",
-      "endDate": "2024",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    },
-    {
       "institution": "UNNOBA",
       "url": "https://unnoba.edu.ar/",
       "area": "Technician in Design and Development of Multiplatform Applications",
       "studyType": "Technical Degree",
       "startDate": "2024",
       "endDate": null,
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "Udemy Academy",
+      "url": "https://www.udemy.com/",
+      "area": "Full Stack Developer",
+      "studyType": "Course",
+      "startDate": "2023",
+      "endDate": null,
+      "score": "4.0",
+      "courses": [
+        "Specialization in React and Redux",
+        "Node, Express and various databases such as MongoDB, PostgreSQL and MySQL"
+      ]
+    },
+    {
+      "institution": "Nucba",
+      "url": "https://www.nucba.com.ar/",
+      "area": "Full Stack Developer",
+      "studyType": "Course",
+      "startDate": "2024",
+      "endDate": "2025",
       "score": "4.0",
       "courses": [
         "DB1101 - Basic SQL"
@@ -245,16 +258,28 @@
         "github": ""
       },
       {
-        "name": "Your Weather",
+        "name": "To Do App",
         "isActive": true,
-        "description": "Handling of the API: OpenWeatherMap, use of Fetch, DOM management, search engine and responsive.",
+        "description": "Manage tasks in various time frames: day, week, month, and year. With an intuitive and easy-to-use interface.",
         "highlights": [
-          "HTML",
-          "CSS",
-          "JavaScript"
+          "JavaScript",	
+          "React",
+          "TailwindCSS"
         ],
-        "url": "https://weather-api-woad-ten.vercel.app/",
-        "github": "https://github.com/Srossiprieto/Weather-API"
+        "url": "https://to-do-list-react-srp.vercel.app/",
+        "github": "https://github.com/Srossiprieto/ToDoListReactSRP"
+      },
+      {
+        "name": "Color Palette",
+        "isActive": true,
+        "description": "Color palette generator, event handling, responsive.",
+        "highlights": [
+          "React",
+          "CSS",
+          "JavaScript"	
+        ],
+        "url": "color-generator-pied-ten.vercel.app",
+        "github": "https://github.com/Srossiprieto/Color-Generator"
       },
       {
         "name": "Toast Notification",

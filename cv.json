@@ -58,24 +58,37 @@
   }],
   "education": [
     {
-      "institution": "Nucba",
-      "url": "https://www.nucba.com.ar/",
-      "area": "Full Stack Developer",
-      "studyType": "Curso",
-      "startDate": "2023",
-      "endDate": "2024",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    },
-    {
       "institution": "UNNOBA",
       "url": "https://unnoba.edu.ar/",
       "area": "Técnico En Diseño y Desarrollo de Aplicaciones Multiplataformas",
       "studyType": "Tecnicatura",
       "startDate": "2024",
       "endDate": null,
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "Udemy Academy",
+      "url": "https://www.udemy.com/",
+      "area": "Full Stack Developer",
+      "studyType": "Curso",
+      "startDate": "2023",
+      "endDate": null,
+      "score": "4.0",
+      "courses": [
+        "Especialización en React y Redux",
+        "Node, Express y varias bases de datos como MongoDB, PostgreSQL y MySQL"
+      ]
+    },
+    {
+      "institution": "Nucba",
+      "url": "https://www.nucba.com.ar/",
+      "area": "Full Stack Developer",
+      "studyType": "Curso",
+      "startDate": "2024",
+      "endDate": "2025",
       "score": "4.0",
       "courses": [
         "DB1101 - Basic SQL"
@@ -236,6 +249,18 @@
       ],
       "url": "https://weather-api-woad-ten.vercel.app/",
       "github": "https://github.com/Srossiprieto/Weather-API"
+    },
+    {
+      "name": "Color Palette",
+      "isActive": true,
+      "description": "Generador de paletas de colores, manejo de eventos, responsive.",
+      "highlights": [
+        "React",
+        "CSS",
+        "JavaScript"	
+      ],
+      "url": "color-generator-pied-ten.vercel.app",
+      "github": "https://github.com/Srossiprieto/Color-Generator"
     },
     {
       "name": "Toast Notification",
