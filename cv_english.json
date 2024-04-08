@@ -224,13 +224,13 @@
       {
         "name": "PixiFi",
         "isActive": true,
-        "description": "Marketing agency, landing page, use of StyledComponents, React and Redux.",
+        "description": "Company dedicated to sales and equipment for customers, use of StyledComponents, React and Redux.",
         "highlights": [
           "React",
           "JavaScript",
           "StyledComponents"
         ],
-        "url": "https://integrador-react-sr.vercel.app/",
+        "url": "https://pixify-sr.vercel.app/",
         "github": "https://github.com/Srossiprieto/Integrador-React-Sr"
       },
       {
@@ -242,20 +242,8 @@
           "CSS",
           "JavaScript"
         ],
-        "url": "https://integrador-js-sr.vercel.app/",
+        "url": "https://petshop-js.vercel.app/",
         "github": "https://github.com/Srossiprieto/IntegradorJS-SR"
-      },
-      {
-        "name": "To Do App",
-        "isActive": true,
-        "description": "Task application, localStorage management, responsive, DOM management.",
-        "highlights": [
-          "HTML",
-          "CSS",
-          "JavaScript"
-        ],
-        "url": "https://to-do-list-xi-mauve.vercel.app/",
-        "github": ""
       },
       {
         "name": "To Do App",

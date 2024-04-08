@@ -204,13 +204,13 @@
     {
       "name": "PixiFi",
       "isActive": true,
-      "description": "Agencia de Marketing, landing page, utilización de StyledComponents, React y Redux .",
+      "description": "Empresa destinada a la venta y equipamiento para el cliente, utilización de StyledComponents, React y Redux.",
       "highlights": [
         "React",
         "JavaScript",
         "StyledComponents"
       ],
-      "url": "https://integrador-react-sr.vercel.app/",
+      "url": "https://pixify-sr.vercel.app/",
       "github": "https://github.com/Srossiprieto/Integrador-React-Sr"
     },
     {
@@ -222,7 +222,7 @@
         "CSS",
         "JavaScript"
       ],
-      "url": "https://integrador-js-sr.vercel.app/",
+      "url": "https://petshop-js.vercel.app/",
       "github": "https://github.com/Srossiprieto/IntegradorJS-SR"
     },
     {
