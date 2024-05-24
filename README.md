@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="logo.webp" width="auto" />
+<img src="logo.webp" height="50px"width="auto" />
  
 <h2>
     <em>CV-Porfolio</em> minimalista maquetado para web y pdf
