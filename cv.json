@@ -35,7 +35,7 @@
   "work": [
     {
       "name": "Freelance - Remote",
-      "url": null,
+      "url": "www.linkedin.com/in/santino-rossi",
       "position": "Full Stack Developer",
       "startDate": "2022",
       "endDate": null,
@@ -201,6 +201,13 @@
     },
     {
       "name": "Express",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Firebase",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"

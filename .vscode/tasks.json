@@ -2,11 +2,15 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "type": "npm",
-      "script": "dev",
+      "label": "pnpm dev",
+      "type": "shell",
+      "command": "pnpm",
+      "args": [
+        "dev"
+      ],
       "runOptions": {
         "runOn": "folderOpen"
-      },
+      }
     }
   ]
 }
