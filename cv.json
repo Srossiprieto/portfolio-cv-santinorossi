@@ -242,10 +242,14 @@
       "description": "Empresa destinada a la venta y equipamiento para el cliente, utilización de StyledComponents, React y Redux.",
       "highlights": [
         "React",
-        "JavaScript",
-        "StyledComponents"
+        "StyledComponents",
+        "MongoDB",
+        "Mongoose",
+        "Express",
+        "NodeJS",
+        "Redux Toolkit"
       ],
-      "url": "https://pixify-sr.vercel.app/",
+      "url": "https://pixify-swart.vercel.app/",
       "github": "https://github.com/Srossiprieto/Integrador-React-Sr"
     },
     {

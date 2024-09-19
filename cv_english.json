@@ -242,10 +242,14 @@
         "description": "Company dedicated to sales and equipment for customers, use of StyledComponents, React and Redux.",
         "highlights": [
           "React",
-          "JavaScript",
-          "StyledComponents"
+          "StyledComponents",
+          "MongoDB",
+          "Mongoose",
+          "Express",
+          "NodeJS",
+          "Redux Toolkit"
         ],
-        "url": "https://pixify-sr.vercel.app/",
+        "url": "https://pixify-swart.vercel.app/",
         "github": "https://github.com/Srossiprieto/Integrador-React-Sr"
       },
       {
