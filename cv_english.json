@@ -151,6 +151,13 @@
       ]
     },
     {
+      "name": "Next",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
       "name": "TypeScript",
       "level": "Avanzado",
       "keywords": [
@@ -236,10 +243,33 @@
       "reference": "Reference…"
     }],
     "projects": [
+      
+      {
+        "name": "ScanOrderly",
+        "isActive": true,
+        "description": "Custom software primarily designed for restaurants, but adaptable to various types of businesses. Developed in collaboration with a colleague. Real-time order management, inventory control, detailed sales and expense analysis, data export to PDF/Excel, and an intuitive interface. More information on the landing page.",
+        "highlights": [
+          "Software:",
+          "Next.js",
+          "TailwindCSS",
+          "Prisma",
+          "PostgreSQL",
+          "TypeScript",
+          "Zustand",
+          "Landing Page:",
+          "React",
+          "TailwindCSS",
+          "NodeJS",
+          "Express",
+          "TypeScript"
+        ],
+        "url": "https://scan-orderly.vercel.app/",
+        "github": "https://github.com/Srossiprieto/ScanOrderly"
+      },
       {
         "name": "PixiFi",
         "isActive": true,
-        "description": "Company dedicated to sales and equipment for customers, use of StyledComponents, React and Redux.",
+        "description": "E-commerce using StyledComponents, React, and Redux. Backend with MongoDB, Mongoose, Express, NodeJS, and Redux Toolkit, which stores products, users, categories, and more.",
         "highlights": [
           "React",
           "StyledComponents",
@@ -251,6 +281,19 @@
         ],
         "url": "https://pixify-swart.vercel.app/",
         "github": "https://github.com/Srossiprieto/Integrador-React-Sr"
+      },
+      {
+        "name": "FusionDevs - Software",
+        "isActive": false,
+        "description": "Management of stock, sales, purchases, users, roles, products, categories, suppliers, clients, reports, data export to PDF/Excel, intuitive interface, responsive design, session management, and private routes.",
+        "highlights": [
+          "Java",
+          "Spring Boot",
+          "PostgreSQL",
+          "React",
+          "TypeScript",
+          "TailwindCSS"
+        ]
       },
       {
         "name": "Petline",
@@ -269,36 +312,11 @@
         "isActive": true,
         "description": "Manage tasks in various time frames: day, week, month, and year. With an intuitive and easy-to-use interface.",
         "highlights": [
-          "JavaScript",	
           "React",
           "TailwindCSS"
         ],
         "url": "https://to-do-list-react-srp.vercel.app/",
         "github": "https://github.com/Srossiprieto/ToDoListReactSRP"
-      },
-      {
-        "name": "Color Palette",
-        "isActive": true,
-        "description": "Color palette generator, event handling, responsive.",
-        "highlights": [
-          "React",
-          "CSS",
-          "JavaScript"	
-        ],
-        "url": "https://color-generator-pied-ten.vercel.app/",
-        "github": "https://github.com/Srossiprieto/Color-Generator"
-      },
-      {
-        "name": "Toast Notification",
-        "isActive": true,
-        "description": "Notifications, event handling, responsive.",
-        "highlights": [
-          "HTML",
-          "CSS",
-          "JavaScript"
-        ],
-        "url": "https://toast-notifications-pink.vercel.app/",
-        "github": "https://github.com/Srossiprieto/-TOAST--NOTIFICATIONS.git"
       }
     ]
   }

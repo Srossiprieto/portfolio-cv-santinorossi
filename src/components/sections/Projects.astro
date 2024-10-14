@@ -19,7 +19,7 @@ import { projects } from "@cv"
                     <a href={url} target="_blank" title={`Ver el proyecto ${name}`}>
                       {name}
                     </a>
-                    {isActive && <span>•</span>}
+                    <span class={isActive ? 'active' : 'inactive'}>•</span>
                     {github && (
                       <a
                         class="github-code-link"
@@ -81,6 +81,9 @@ import { projects } from "@cv"
 
   article h3 {
     margin-bottom: 4px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
   }
 
   article a {
@@ -98,11 +101,18 @@ import { projects } from "@cv"
   }
 
   article h3 span {
-    color: rgb(0, 188, 47);
     animation-name: flicker;
     animation-duration: 3s;
     animation-timing-function: ease-in;
     animation-iteration-count: infinite;
+  }
+
+  .active {
+    color: rgb(0, 188, 47);
+  }
+
+  .inactive {
+    color: orange;
   }
 
   footer {

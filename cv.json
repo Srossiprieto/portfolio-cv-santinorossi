@@ -151,6 +151,13 @@
       ]
     },
     {
+      "name": "Next",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
       "name": "TypeScript",
       "level": "Avanzado",
       "keywords": [
@@ -237,9 +244,32 @@
   }],
   "projects": [
     {
+  
+        "name": "ScanOrderly",
+        "isActive": true,
+        "description": "Software personalizado diseñado principalmente para restaurantes, pero adaptable a diversos tipos de negocios. Desarrollado en colaboración con un colega. Gestión de ordenes en tiempo real, control de inventarios, análisis detallado de ventas y gastos, exportación de datos en pdf/excel e interfaz intuitiva, más información en la landing page.",
+        "highlights": [
+          "Software:",
+          "Next.js",
+          "TailwindCSS",
+          "Prisma",
+          "PostgreSQL",
+          "TypeScript",
+          "Zustand",
+          "Landing Page:",
+          "React",
+          "TailwindCSS",
+          "NodeJS",
+          "Express",
+          "TypeScript"
+        ],
+      "url": "https://scan-orderly.vercel.app/",
+      "github": "https://github.com/Srossiprieto/ScanOrderly"
+    },
+    {
       "name": "PixiFi",
       "isActive": true,
-      "description": "Empresa destinada a la venta y equipamiento para el cliente, utilización de StyledComponents, React y Redux.",
+      "description": "Ecomerce utilización de StyledComponents, React y Redux. Backend con MongoDB, Mongoose, Express, NodeJS y Redux Toolkit el cual almacena productos, usuarios, categorias y demás .",
       "highlights": [
         "React",
         "StyledComponents",
@@ -251,6 +281,19 @@
       ],
       "url": "https://pixify-swart.vercel.app/",
       "github": "https://github.com/Srossiprieto/Integrador-React-Sr"
+    },
+    {
+      "name": "FusionDevs - Software",
+      "isActive": false,
+      "description": "Gestion de stock, ventas, compras, usuarios, roles, productos, categorias, proveedores, clientes, reportes, exportación de datos en pdf/excel, interfaz intuitiva, responsive, manejo de sesiones y rutas privadas.",
+      "highlights": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "React",
+        "TypeScript",
+        "TailwindCSS"
+      ]
     },
     {
       "name": "Petline",
@@ -268,8 +311,7 @@
       "name": "To Do App",
       "isActive": true,
       "description": "Gestionar tareas en varios marcos temporales: día, semana, mes y año. Con una interfaz intuitiva y fácil de usar.",
-      "highlights": [
-        "JavaScript",	
+      "highlights": [	
         "React",
         "TailwindCSS"
       ],
@@ -288,30 +330,6 @@
       ],
       "url": "https://weather-api-woad-ten.vercel.app/",
       "github": "https://github.com/Srossiprieto/Weather-API"
-    },
-    {
-      "name": "Color Palette",
-      "isActive": true,
-      "description": "Generador de paletas de colores, manejo de eventos, responsive.",
-      "highlights": [
-        "React",
-        "CSS",
-        "JavaScript"	
-      ],
-      "url": "https://color-generator-pied-ten.vercel.app/",
-      "github": "https://github.com/Srossiprieto/Color-Generator"
-    },
-    {
-      "name": "Toast Notification",
-      "isActive": true,
-      "description": "Notificaciones, manejo de eventos, responsive.",
-      "highlights": [
-        "HTML",
-        "CSS",
-        "JavaScript"	
-      ],
-      "url": "https://toast-notifications-pink.vercel.app/",
-      "github": "https://github.com/Srossiprieto/-TOAST--NOTIFICATIONS.git"
     }
   ]
 }
