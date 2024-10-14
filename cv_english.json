@@ -285,7 +285,7 @@
       {
         "name": "FusionDevs - Software",
         "isActive": false,
-        "description": "Management of stock, sales, purchases, users, roles, products, categories, suppliers, clients, reports, data export to PDF/Excel, intuitive interface, responsive design, session management, and private routes.",
+        "description": "Management of stock, sales, purchases, users, roles, products, categories, suppliers, clients, reports, data export to PDF/Excel, intuitive interface, responsive design, session management, and private routes. Developed in collaboration with 2 colleagues.",
         "highlights": [
           "Java",
           "Spring Boot",
