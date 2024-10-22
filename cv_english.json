@@ -269,7 +269,7 @@
       {
         "name": "PixiFi",
         "isActive": true,
-        "description": "E-commerce using StyledComponents, React, and Redux. Backend with MongoDB, Mongoose, Express, NodeJS, and Redux Toolkit, which stores products, users, categories, and more.",
+        "description": "Full-stack e-commerce, developed using React with StyledComponents for a modular and scalable design, and Redux along with Redux Toolkit for efficient global state management. The backend uses Node.js, Express, and MongoDB with Mongoose for data persistence. JWT implementation for authentication and private routes. Fully responsive.",
         "highlights": [
           "React",
           "StyledComponents",
