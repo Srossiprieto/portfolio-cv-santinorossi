@@ -277,6 +277,7 @@
           "Mongoose",
           "Express",
           "NodeJS",
+          "TypeScript",
           "Redux Toolkit"
         ],
         "url": "https://pixify-swart.vercel.app/",
