@@ -5,8 +5,8 @@
     "image": "/me.webp",
     "email": "santirossip@gmail.com",
     "phone": "+54 2355647692",
-    "url": "https://midu.dev",
-   "summary": "Currently, I work as a freelance selling web pages and have developed in various environments, excelling in communication, clean code, adaptability, organization, problem-solving, and teamwork. I have knowledge of WordPress. I am passionate about learning and constantly evolving. I enjoy teaching and share my knowledge with my university colleagues through classes on Meet and Discord.",
+    "url": "https://santinorossi.site",
+    "summary": "I am a freelance software developer, specialized in creating custom solutions and selling web pages. I excel in effective communication, writing clean code, adapting to different environments, organizing projects, solving problems, and working in teams. I have experience with tools like WordPress and a deep interest in continuous learning and evolution in my field. Additionally, I enjoy sharing knowledge and actively collaborating in development communities, where I also teach and support other professionals.",
     "location": {
       "address": "Hipolito Yrigoyen, 17",
       "postalCode": "6000",
@@ -35,11 +35,11 @@
   "work": [
     {
       "name": "Freelance - Remote",
-      "position": "Full Stack Developer",
       "url": "https://www.linkedin.com/in/santino-rossi",
+      "position": "Full Stack Developer",
       "startDate": "2022",
       "endDate": null,
-      "summary": "Development of web and mobile applications. Teamwork with other developers and designers. Use of agile methodologies and good development practices. Along with the implementation of WordPress.",
+      "summary": "Development of custom software. Teamwork with other developers and designers. Use of agile methodologies and good development practices. Implementation of APIs such as Google Maps, MercadoPago, Afip, Strapi among others. Design and development of websites and web applications.",
       "highlights": [
         "Started the company"
       ]
@@ -119,205 +119,210 @@
       "name": "HTML",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend"
+        "Web Development", "Frontend"
       ]
     },
     {
       "name": "CSS",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
+        "Web Development", "Frontend", "Responsive Design"
       ]
     },
     {
       "name": "Tailwind",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Web Development", "Frontend", "CSS Framework", "Responsive Design"
       ]
     },
     {
       "name": "JavaScript",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        "Web Development", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
       "name": "React",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Web Development", "Frontend", "JavaScript Library", "UI"
       ]
     },
     {
       "name": "Next",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Web Development", "Frontend", "JavaScript Library", "UI"
       ]
     },
     {
       "name": "TypeScript",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Web Development", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
       "name": "Git",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
+        "Version Control", "Collaboration", "Source Code"
       ]
     },
     {
       "name": "GitHub",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        "Version Control", "Collaboration", "Source Code", "Git"
       ]
     },
     {
       "name": "Node",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        "Web Development", "Backend", "JavaScript", "Server"
       ]
     },
     {
       "name": "MongoDB",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Web Development", "Frontend", "JavaScript Library", "UI"
       ]
     },
     {
-      "name": "PostgreeSQL",
-      "level": "Avanzado",
+      "name": "PostgreSQL",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Web Development", "Frontend", "JavaScript Library", "UI"
       ]
     },
     {
       "name": "MySQL",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Web Development", "Frontend", "JavaScript Library", "UI"
       ]
     },
     {
       "name": "Express",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Web Development", "Frontend", "JavaScript Library", "UI"
       ]
     },
     {
       "name": "Firebase",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Web Development", "Frontend", "JavaScript Library", "UI"
       ]
     }
   ],
-    "languages": [
-      {
-        "language": "Spanish",
-        "fluency": "Native speaker"
-      },
-      {
-        "language": "English",
-        "fluency": "Advanced"
-      }
-    ],
-    "interests": [{
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }],
-    "references": [{
-      "name": "Jane Doe",
-      "reference": "Reference…"
-    }],
-    "projects": [
-      
-      {
-        "name": "ScanOrderly",
-        "isActive": true,
-        "description": "Custom software primarily designed for restaurants, but adaptable to various types of businesses. Developed in collaboration with a colleague. Real-time order management, inventory control, detailed sales and expense analysis, data export to PDF/Excel, and an intuitive interface. More information on the landing page.",
-        "highlights": [
-          "Software:",
-          "Next.js",
-          "TailwindCSS",
-          "Prisma",
-          "PostgreSQL",
-          "TypeScript",
-          "Zustand",
-          "Landing Page:",
-          "React",
-          "TailwindCSS",
-          "NodeJS",
-          "Express",
-          "TypeScript"
-        ],
-        "url": "https://scan-orderly.vercel.app/",
-        "github": "https://github.com/Srossiprieto/ScanOrderly"
-      },
-      {
-        "name": "PixiFi",
-        "isActive": true,
-        "description": "Full-stack e-commerce, developed using React with StyledComponents for a modular and scalable design, and Redux along with Redux Toolkit for efficient global state management. The backend uses Node.js, Express, and MongoDB with Mongoose for data persistence. JWT implementation for authentication and private routes. Fully responsive.",
-        "highlights": [
-          "React",
-          "StyledComponents",
-          "MongoDB",
-          "Mongoose",
-          "Express",
-          "NodeJS",
-          "TypeScript",
-          "Redux Toolkit"
-        ],
-        "url": "https://pixify-swart.vercel.app/",
-        "github": "https://github.com/Srossiprieto/Integrador-React-Sr"
-      },
-      {
-        "name": "FusionDevs - Software",
-        "isActive": false,
-        "description": "Management of stock, sales, purchases, users, roles, products, categories, suppliers, clients, reports, data export to PDF/Excel, intuitive interface, responsive design, session management, and private routes. Developed in collaboration with 2 colleagues.",
-        "highlights": [
-          "Java",
-          "Spring Boot",
-          "PostgreSQL",
-          "React",
-          "TypeScript",
-          "TailwindCSS"
-        ]
-      },
-      {
-        "name": "Petline",
-        "isActive": true,
-        "description": "Ecommerce of pet products, form validation, shopping cart, responsive, filters, DOM management.",
-        "highlights": [
-          "HTML",
-          "CSS",
-          "JavaScript"
-        ],
-        "url": "https://petshop-js.vercel.app/",
-        "github": "https://github.com/Srossiprieto/IntegradorJS-SR"
-      },
-      {
-        "name": "To Do App",
-        "isActive": true,
-        "description": "Manage tasks in various time frames: day, week, month, and year. With an intuitive and easy-to-use interface.",
-        "highlights": [
-          "React",
-          "TailwindCSS"
-        ],
-        "url": "https://to-do-list-react-srp.vercel.app/",
-        "github": "https://github.com/Srossiprieto/ToDoListReactSRP"
-      }
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
     ]
-  }
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "ScanOrderly",
+      "isActive": true,
+      "description": "Custom software primarily designed for restaurants, but adaptable to various types of businesses. Real-time order management, inventory control, detailed sales and expense analysis, data export to PDF/Excel, and an intuitive interface. More information on the landing page.",
+      "highlights": [
+        "Next.js",
+        "TailwindCSS",
+        "Prisma",
+        "PostgreSQL",
+        "TypeScript",
+        "Zustand"
+      ]
+    },
+    {
+      "name": "PixiFi",
+      "isActive": true,
+      "description": "Full-stack e-commerce, with a modular and scalable design. Redux along with Redux Toolkit for efficient global state management. The backend uses Node.js, Express, and MongoDB with Mongoose for data persistence. JWT implementation for authentication and private routes.",
+      "highlights": [
+        "React",
+        "StyledComponents",
+        "MongoDB",
+        "Mongoose",
+        "Express",
+        "NodeJS",
+        "TypeScript",
+        "Redux Toolkit"
+      ],
+      "url": "https://pixify-swart.vercel.app/",
+      "github": "https://github.com/Srossiprieto/Integrador-React-Sr"
+    },
+    {
+      "name": "FusionDevs - Software",
+      "isActive": false,
+      "description": "Management of stock, sales, purchases, users, products, categories, suppliers, clients, analytics, data export to PDF/Excel, intuitive interface, responsive design, session management, and private routes. Integration of the Afip API for electronic invoicing.",
+      "highlights": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "React",
+        "TypeScript",
+        "TailwindCSS"
+      ]
+    },
+    {
+      "name": "Admin Panel - Software",
+      "isActive": true,
+      "description": "Admin panel for managing users, products, categories, sales, purchases, suppliers, clients, analytics, data export to PDF/Excel, intuitive interface, responsive design, session management, and private routes.",
+      "highlights": [
+        "Next.js",
+        "TailwindCSS",
+        "Prisma",
+        "PostgreSQL",
+        "TypeScript",
+        "Zustand"
+      ]
+    },
+    {
+      "name": "ScanOrderly - Landing Page",
+      "isActive": true,
+      "description": "Landing page for the ScanOrderly software, with detailed information about the product, features, pricing, and contact. Futuristic and minimalist design, with animations and visual effects. Fully responsive.",
+      "highlights": [
+        "React",
+        "TailwindCSS",
+        "NodeJS",
+        "Express",
+        "TypeScript"
+      ],
+      "url": "https://scan-orderly.vercel.app/",
+      "github": "https://github.com/Srossiprieto/ScanOrderly"
+    },
+    {
+      "name": "To Do App",
+      "isActive": true,
+      "description": "Manage tasks in various time frames: day, week, month, and year. With an intuitive and easy-to-use interface.",
+      "highlights": [
+        "React",
+        "TailwindCSS"
+      ],
+      "url": "https://to-do-list-react-srp.vercel.app/",
+      "github": "https://github.com/Srossiprieto/ToDoListReactSRP"
+    }
+  ]
+}

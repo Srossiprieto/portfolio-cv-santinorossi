@@ -6,7 +6,7 @@
     "email": "santirossip@gmail.com",
     "phone": "+54 2355647692",
     "url": "https://santinorossi.site",
-    "summary": "Actualmente, trabajo como freelance vendiendo paginas web y me he desarrollado en diversos entornos, destacándome en comunicación, código limpio, adaptabilidad, organización, resolución de problemas y trabajo en equipo. Tengo conocimientos de Wordpress. Me apasiona aprender y estar en constante evolución. Disfruto enseñar y comparto mis conocimientos con mis compañeros de universidad mediante clases en Meet y Discord.",
+    "summary": "Soy desarrollador de software freelance, especializado en la creación de soluciones a medida y en la venta de páginas web. Me destaco por mi habilidad para mantener una comunicación efectiva, escribir código limpio, adaptarme a diferentes entornos, organizar proyectos, resolver problemas y trabajar en equipo. Tengo experiencia en herramientas como WordPress y un profundo interés por el aprendizaje continuo y la evolución en mi campo. Además, disfruto compartir conocimientos y colaborar activamente en comunidades de desarrollo, donde también enseño y apoyo a otros profesionales.",
     "location": {
       "address": "Hipolito Yrigoyen, 17",
       "postalCode": "6000",
@@ -39,7 +39,7 @@
       "position": "Full Stack Developer",
       "startDate": "2022",
       "endDate": null,
-      "summary": " Desarrollo de aplicaciones web y móviles. Trabajo en equipo con otros desarrolladores y diseñadores. Uso de metodologías ágiles y buenas prácticas de desarrollo. En conjunto de la implementación de Wordpress.",
+      "summary": "Desarrollo de Softwares a medida. Trabajo en equipo con otros desarrolladores y diseñadores. Uso de metodologías ágiles y buenas prácticas de desarrollo. Implementación de apis como Google Maps, MercadoPago, Afip, Strapi entre otras. Diseño y desarrollo de sitios web y aplicaciones web.",
       "highlights": [
         "Started the company"
       ]
@@ -247,29 +247,20 @@
   
         "name": "ScanOrderly",
         "isActive": true,
-        "description": "Software personalizado diseñado principalmente para restaurantes, pero adaptable a diversos tipos de negocios. Desarrollado en colaboración con un colega. Gestión de ordenes en tiempo real, control de inventarios, análisis detallado de ventas y gastos, exportación de datos en pdf/excel e interfaz intuitiva, más información en la landing page.",
+        "description": "Software personalizado diseñado principalmente para restaurantes, pero adaptable a diversos tipos de negocios. Gestión de ordenes en tiempo real, control de inventarios, análisis detallado de ventas y gastos, exportación de datos en pdf/excel e interfaz intuitiva, más información en la landing page.",
         "highlights": [
-          "Software:",
           "Next.js",
           "TailwindCSS",
           "Prisma",
           "PostgreSQL",
           "TypeScript",
-          "Zustand",
-          "Landing Page:",
-          "React",
-          "TailwindCSS",
-          "NodeJS",
-          "Express",
-          "TypeScript"
-        ],
-      "url": "https://scan-orderly.vercel.app/",
-      "github": "https://github.com/Srossiprieto/ScanOrderly"
+          "Zustand"
+        ]
     },
     {
       "name": "PixiFi",
       "isActive": true,
-      "description": "E-commerce full-stack, Desarrollado utilizando React con StyledComponents para un diseño modular y escalable, y Redux junto con Redux Toolkit para la gestión eficiente del estado global.El backend utiliza Node.js, Express y MongoDB con Mongoose para la persistencia de datos. Implementación de JWT para autenticación y rutas privadas. Completamente responsive.",
+      "description": "E-commerce full-stack, con un diseño modular y escalable. Redux junto con Redux Toolkit para la gestión eficiente del estado global.El backend utiliza Node.js, Express y MongoDB con Mongoose para la persistencia de datos. Implementación de JWT para autenticación y rutas privadas.",
       "highlights": [
         "React",
         "StyledComponents",
@@ -286,7 +277,7 @@
     {
       "name": "FusionDevs - Software",
       "isActive": false,
-      "description": "Gestion de stock, ventas, compras, usuarios, roles, productos, categorias, proveedores, clientes, reportes, exportación de datos en pdf/excel, interfaz intuitiva, responsive, manejo de sesiones y rutas privadas. Realizado en conjunto a 2 colegas.",
+      "description": "Gestion de stock, ventas, compras, usuarios, productos, categorias, proveedores, clientes, analíticas, exportación de datos en pdf/excel, interfaz intuitiva, responsive, manejo de sesiones y rutas privadas.Integración de la api Afip para facturación electrónica.",
       "highlights": [
         "Java",
         "Spring Boot",
@@ -297,16 +288,33 @@
       ]
     },
     {
-      "name": "Petline",
+  
+      "name": "Admin Panel - Software",
       "isActive": true,
-      "description": "Ecomerce de productos para mascotas, validación de formularios, carrito de compras, responsive, filtros, manejo del DOM.",
+      "description": "Panel de administración para gestionar usuarios, productos, categorías, ventas, compras, proveedores, clientes, analíticas, exportación de datos en pdf/excel, interfaz intuitiva, responsive, manejo de sesiones y rutas privadas.",
       "highlights": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ],
-      "url": "https://petshop-js.vercel.app/",
-      "github": "https://github.com/Srossiprieto/IntegradorJS-SR"
+        "Next.js",
+        "TailwindCSS",
+        "Prisma",
+        "PostgreSQL",
+        "TypeScript",
+        "Zustand"
+      ]
+  },
+
+  {
+        "name": "ScanOrderly - Landing Page",
+        "isActive": true,
+        "description": "Landing page para el software ScanOrderly, con información detallada sobre el producto, características, precios y contacto. Diseño futurista y minimalista, con animaciones y efectos visuales. Totalmente responsive.", 
+        "highlights": [
+          "React",
+          "TailwindCSS",
+          "NodeJS",
+          "Express",
+          "TypeScript"
+        ],
+      "url": "https://scan-orderly.vercel.app/",
+      "github": "https://github.com/Srossiprieto/ScanOrderly"
     },
     {
       "name": "To Do App",
@@ -319,18 +327,6 @@
       "url": "https://to-do-list-react-srp.vercel.app/",
       "github": "https://github.com/Srossiprieto/ToDoListReactSRP"
       
-    },
-    {
-      "name": "Tu Clima",
-      "isActive": true,
-      "description": "Manejo de la API : OpenWeatherMap, uso de Fetch, manejo de DOM, buscador y responsive.",
-      "highlights": [
-        "HTML",
-        "CSS",
-        "JavaScript"	
-      ],
-      "url": "https://weather-api-woad-ten.vercel.app/",
-      "github": "https://github.com/Srossiprieto/Weather-API"
     }
   ]
 }
