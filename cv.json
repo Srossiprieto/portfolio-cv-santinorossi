@@ -6,7 +6,7 @@
     "email": "santirossip@gmail.com",
     "phone": "+54 2355647692",
     "url": "https://santinorossi.site",
-    "summary": "Soy desarrollador de software freelance, especializado en la creación de soluciones a medida y en la venta de páginas web. Me destaco por mi habilidad para mantener una comunicación efectiva, escribir código limpio, adaptarme a diferentes entornos, organizar proyectos, resolver problemas y trabajar en equipo. Tengo experiencia en herramientas como WordPress y un profundo interés por el aprendizaje continuo y la evolución en mi campo. Además, disfruto compartir conocimientos y colaborar activamente en comunidades de desarrollo, donde también enseño y apoyo a otros profesionales.",
+    "summary": "Desarrollador de software freelance, especializado en la creación de soluciones a medida y en la venta de páginas web. Me destaco por mi habilidad para mantener una comunicación efectiva, escribir código limpio, adaptarme a diferentes entornos, organizar proyectos, resolver problemas y trabajar en equipo. Tengo experiencia en herramientas como WordPress y un profundo interés por el aprendizaje continuo y la evolución en mi campo. Además, disfruto compartir conocimientos y colaborar activamente en comunidades de desarrollo, donde también enseño y apoyo a otros profesionales.",
     "location": {
       "address": "Hipolito Yrigoyen, 17",
       "postalCode": "6000",
@@ -244,7 +244,6 @@
   }],
   "projects": [
     {
-  
         "name": "ScanOrderly",
         "isActive": true,
         "description": "Software personalizado diseñado principalmente para restaurantes, pero adaptable a diversos tipos de negocios. Gestión de ordenes en tiempo real, control de inventarios, análisis detallado de ventas y gastos, exportación de datos en pdf/excel e interfaz intuitiva, más información en la landing page.",
@@ -255,7 +254,9 @@
           "PostgreSQL",
           "TypeScript",
           "Zustand"
-        ]
+        ],
+        "url": "https://www.youtube.com/watch?v=ZbIs6YGVcow",
+        "github": ""
     },
     {
       "name": "PixiFi",
@@ -276,7 +277,7 @@
     },
     {
       "name": "FusionDevs - Software",
-      "isActive": false,
+      "isActive": true,
       "description": "Gestion de stock, ventas, compras, usuarios, productos, categorias, proveedores, clientes, analíticas, exportación de datos en pdf/excel, interfaz intuitiva, responsive, manejo de sesiones y rutas privadas.Integración de la api Afip para facturación electrónica.",
       "highlights": [
         "Java",
@@ -288,7 +289,7 @@
       ]
     },
     {
-  
+
       "name": "Admin Panel - Software",
       "isActive": true,
       "description": "Panel de administración para gestionar usuarios, productos, categorías, ventas, compras, proveedores, clientes, analíticas, exportación de datos en pdf/excel, interfaz intuitiva, responsive, manejo de sesiones y rutas privadas.",
@@ -305,7 +306,7 @@
   {
         "name": "ScanOrderly - Landing Page",
         "isActive": true,
-        "description": "Landing page para el software ScanOrderly, con información detallada sobre el producto, características, precios y contacto. Diseño futurista y minimalista, con animaciones y efectos visuales. Totalmente responsive.", 
+        "description": "Landing page para el software ScanOrderly, con información detallada sobre el producto, características, precios y contacto. Diseño futurista y minimalista, con animaciones y efectos visuales. Totalmente responsive.",
         "highlights": [
           "React",
           "TailwindCSS",
@@ -316,18 +317,20 @@
       "url": "https://scan-orderly.vercel.app/",
       "github": "https://github.com/Srossiprieto/ScanOrderly"
     },
-    {
-      "name": "To Do App",
-      "isActive": true,
-      "description": "Gestionar tareas en varios marcos temporales: día, semana, mes y año. Con una interfaz intuitiva y fácil de usar.",
-      "highlights": [	
-        "React",
-        "TailwindCSS"
-      ],
-      "url": "https://to-do-list-react-srp.vercel.app/",
-      "github": "https://github.com/Srossiprieto/ToDoListReactSRP"
-      
-    }
+   {
+  "name": "API - FACTUS facturación electrónica",
+  "isActive": false,
+  "description": "Sistema full-stack de facturación electrónica integrado con la API de Halltech Colombia. Incluye autenticación OAuth2, gestión de facturas electrónicas, panel administrativo moderno y sistema de paginación avanzado. Desarrollado con arquitectura modular y diseño responsive.",
+  "highlights": [
+    "React",
+    "TypeScript",
+    "TailwindCSS",
+    "NodeJS",
+    "Express",
+    "PostgreSQL",
+    "Prisma"
+  ]
+}
   ]
 }
 
