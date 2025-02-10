@@ -219,6 +219,13 @@
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
+    },
+    {
+      "name": "Docker",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
     }
   ],
   "languages": [
@@ -255,7 +262,7 @@
           "TypeScript",
           "Zustand"
         ],
-        "url": "https://www.youtube.com/watch?v=ZbIs6YGVcow",
+        "url": "https://www.youtube.com/watch?v=P0YaegQU62I&t=16s",
         "github": ""
     },
     {
@@ -285,7 +292,8 @@
         "PostgreSQL",
         "React",
         "TypeScript",
-        "TailwindCSS"
+        "TailwindCSS",
+        "Docker"
       ]
     },
     {
@@ -319,7 +327,7 @@
     },
    {
   "name": "API - FACTUS facturación electrónica",
-  "isActive": false,
+  "isActive": true,
   "description": "Sistema full-stack de facturación electrónica integrado con la API de Halltech Colombia. Incluye autenticación OAuth2, gestión de facturas electrónicas, panel administrativo moderno y sistema de paginación avanzado. Desarrollado con arquitectura modular y diseño responsive.",
   "highlights": [
     "React",
@@ -328,8 +336,10 @@
     "NodeJS",
     "Express",
     "PostgreSQL",
-    "Prisma"
-  ]
+    "Prisma",
+    "Docker"
+  ],
+  "url": "https://www.youtube.com/watch?v=iW-4369aX4s&t=2s"
 }
   ]
 }
